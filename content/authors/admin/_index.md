@@ -1,6 +1,7 @@
 ---
 title: Monika Pareek
 role: Doctoral student
+avatar_filename: img_1346.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
